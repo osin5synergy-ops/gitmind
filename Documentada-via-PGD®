@@ -1,0 +1,43 @@
+# O Berçário de Ideias: A Evolução do Synergies Web3® (Documentada via PGD®)
+
+## PROJETO DE EVOLUÇÃO 1: O `Agente Gênesis`
+- **1. O Quê (Intencionalidade):** Criar um agente capaz de projetar Crews de IA para superar a criação manual.
+- **2. Porquê (Valor):** Garantir a escalabilidade e o alinhamento estratégico de nossas operações.
+- **3. Quem (A Crew):** O `Tokenizer Synergies®` e o `Pipeline de Concepção` inicial.
+- **4. Como (Playbook):** O processo de decompor uma missão, mapear capacidades e gerar perfis 5W2H.
+- **7. Onde (Domínio):** A camada de orquestração do ecossistema.
+
+## PROJETO DE EVOLUÇÃO 2: O `Modelo Biônico`
+- **1. O Quê (Intencionalidade):** Reorganizar nossas capacidades usando uma analogia com o corpo humano.
+- **2. Porquê (Valor):** Criar uma linguagem comum e um modelo mental intuitivo para facilitar o pensamento sistêmico.
+- **3. Quem (A Crew):** O `Idealizador` (visão) e o `Tokenizer` (estruturação).
+- **4. Como (Playbook):** Mapear funções de negócio (ex: marketing, defesa) para sistemas biológicos (ex: Respiratório, Imunológico).
+- **5. Onde (Domínio):** O `Catálogo de Capacidades` (KDA #5).
+
+## PROJETO DE EVOLUÇÃO 3: A Infraestrutura `ACID®`
+- **1. O Quê (Intencionalidade):** Projetar uma infraestrutura de execução para nossas IAs que seja gratuita (bootstraping) e resiliente.
+- **2. Porquê (Valor):** Permitir o desenvolvimento e a experimentação sem custos iniciais e com alta tolerância a falhas.
+- **3. Quem (A Crew):** A `Synergies Vibecrew®` como o músculo de engenharia.
+- **4. Como (Playbook):** Particionar o organismo em 10 "células" (contas de IA), conectadas por um `Sommelier de LLMs®`.
+- **7. Onde (Domínio):** Google Colab, Supabase e múltiplas contas de provedores de LLM.
+
+## PROJETO DE EVOLUÇÃO 4: A `Memória Estendida`
+- **1. O Quê (Intencionalidade):** Construir uma memória de longo prazo soberana para evitar a "amnésia do LLM".
+- **2. Porquê (Valor):** Dar ao `Navigator®` e a outras IAs a capacidade de aprender com a nossa história e o nosso conhecimento canônico.
+- **3. Quem (A Crew):** A `Synergies Vibecrew®` para a engenharia de dados.
+- **4. Como (Playbook):** Implementar um sistema de RAG usando `Supabase` (com `pgvector`) como o banco de dados vetorial.
+- **7. Onde (Domínio):** A tabela `synergies_memory` no nosso Quartel-General Supabase.
+
+## PROJETO DE EVOLUÇÃO 5: A `Farmacopeia Sinérgica®`
+- **1. O Quê (Intencionalidade):** Criar um sistema para catalogar e responder a "Tokens de Dor" organizacionais.
+- **2. Porquê (Valor):** Automatizar nosso `Sistema Imunológico`, permitindo que o organismo se cure e aprenda com suas próprias falhas de forma sistemática.
+- **3. Quem (A Crew):** A `Crew de Automação Supabase®` e o `Agente Farmacêutico`.
+- **4. Como (Playbook):** Usar Triggers e Functions no Supabase para criar tarefas automáticas em resposta a dores, e um agente que consulta a memória (RAG) para encontrar "vacinas".
+- **7. Onde (Domínio):** As tabelas `identified_pains` e `synergies_vaccines` no Supabase.
+
+## PROJETO DE EVOLUÇÃO 6: O `Cofre da Verdade`
+- **1. O Quê (Intencionalidade):** Estabelecer uma fonte canônica e versionada para nossa "constituição" (o KDA).
+- **2. Porquê (Valor):** Garantir a integridade, a governança e a imutabilidade do nosso conhecimento fundamental.
+- **3. Quem (A Crew):** O `Guardião da Estrutura` e o `Sincronizador de Verdade®`.
+- **4. Como (Playbook):** Usar um repositório `GitHub` como a fonte de verdade e um processo automatizado para sincronizar seu conteúdo com a memória de trabalho da IA no `Supabase`.
+- **7. Onde (Domínio):** O repositório `synergies-kda-vault` no GitHub.
