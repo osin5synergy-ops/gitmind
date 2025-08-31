@@ -1,2 +1,2 @@
-# about
-sobre legacy sinergies web3.
+# sobre legacy sinergies web3.
+
